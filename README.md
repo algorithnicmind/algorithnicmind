@@ -1,7 +1,7 @@
 # 💫 About Me:
  <img src="https://github.com/user-attachments/assets/80f0ff87-da6a-4f52-9fd7-e195677b400b" alt="Coding Illustration" width="200"/>
 
-🧑‍💻 I’m Ankit, a tech enthusiast passionate about building smart and interactive tools.<br>🛠️ I’m currently doing internship in Envistream Smarttech as software developer.<br>👯 I’m looking to collaborate on creative AI  projects.<br>💬 I’m looking for help with deploying Python apps and using advanced AI models.<br>🌱 I’m currently learning Wev, software engineering, and python.<br>⚡ Fun fact: I built a tool that act as voice assistant like sir!<br><br>
+🧑‍💻 I’m Ankit, a tech enthusiast passionate about building smart and interactive tools.<br>i am a student of DRIEMS UNIVERSITY IN BTECH CSE.<br>🛠️ I’m currently doing internship in Envistream Smarttech as software developer.<br>👯 I’m looking to collaborate on creative AI  projects.<br>💬 I’m looking for help with deploying Python apps and using advanced AI models.<br>🌱 I’m currently learning Wev, software engineering, and python.<br>⚡ Fun fact: I built a tool that act as voice assistant like sir!<br><br>
 
 
 ## 🌐 Socials:
