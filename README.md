@@ -12,6 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=algorithnicmind&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=algorithnicmind&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<!-- Demo GIF Placeholder -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Demo Animation"/>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=algorithnicmind&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
