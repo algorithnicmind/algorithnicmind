@@ -16,6 +16,7 @@ education: B.Tech CSE @ DRIEMS University
 location: India 🇮🇳
 interests: [AI/ML, Web Development, Open Source, Building Cool Stuff]
 currently_learning: [Web Development, Software Engineering, Python, Deep Learning]
+portfolio: https://ankitsahoo-portfolio.onrender.com
 fun_fact: "I built a voice assistant tool like Siri!"
 ```
 
@@ -26,9 +27,16 @@ fun_fact: "I built a voice assistant tool like Siri!"
 - 👯 Looking to collaborate on **creative AI projects**
 - 💬 Ask me about **Python, JavaScript, AI/ML**
 - 📫 Reach me at **ankitsahoo885@gmail.com**
+- 🌐 Check out my portfolio: **[ankitsahoo-portfolio.onrender.com](https://ankitsahoo-portfolio.onrender.com)**
 - ⚡ Fun fact: **I built a voice assistant like Siri!**
 
 <br clear="right"/>
+
+<div align="center">
+
+### 🌐 [✨ Visit My Portfolio →](https://ankitsahoo-portfolio.onrender.com)
+
+</div>
 
 ---
 
@@ -40,7 +48,7 @@ fun_fact: "I built a voice assistant tool like Siri!"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-sahoo94)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ankitsahoo94)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitsahoo885@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/algorithnicmind)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ankitsahoo-portfolio.onrender.com)
 
 </div>
 
