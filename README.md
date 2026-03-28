@@ -72,7 +72,17 @@ fun_fact: "I built a voice assistant tool like Siri!"
 ```
 
 <!-- START_SECTION:weekly_stats -->
+```text
+📊 Weekly Contribution Activity (Last 365 Days)
 
+Monday     42 commits      ██░░░░░░░░░░░░░░░░░░░░░░░    10.2%
+Tuesday    38 commits      ██░░░░░░░░░░░░░░░░░░░░░░░     9.2%
+Wednesday  63 commits      ███░░░░░░░░░░░░░░░░░░░░░░    15.3%
+Thursday   53 commits      ███░░░░░░░░░░░░░░░░░░░░░░    12.8%
+Friday     31 commits      █░░░░░░░░░░░░░░░░░░░░░░░░     7.5%
+Saturday   142 commits     ████████░░░░░░░░░░░░░░░░░    34.4%
+Sunday     44 commits      ██░░░░░░░░░░░░░░░░░░░░░░░    10.7%
+```
 <!-- END_SECTION:weekly_stats -->
 
 ---
