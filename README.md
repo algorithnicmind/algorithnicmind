@@ -71,6 +71,9 @@ fun_fact: "I built a voice assistant tool like Siri!"
 🌐 Portfolio Site    ██████░░░░░░░░░░░░░░░░░░░  25% — Personal portfolio
 ```
 
+<!-- START_SECTION:weekly_stats -->
+<!-- END_SECTION:weekly_stats -->
+
 ---
 
 ## 🚀 Featured Projects
