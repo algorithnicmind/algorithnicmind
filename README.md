@@ -72,6 +72,7 @@ fun_fact: "I built a voice assistant tool like Siri!"
 ```
 
 <!-- START_SECTION:weekly_stats -->
+
 <!-- END_SECTION:weekly_stats -->
 
 ---
