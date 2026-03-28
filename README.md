@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2193b0&height=220&section=header&text=Ankit%20Sahoo&fontSize=50&fontColor=6dd5ed&animation=twinkling&fontAlignY=30&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=52&descSize=20&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:b829ea&height=220&section=header&text=Ankit%20Sahoo&fontSize=50&fontColor=e0b0ff&animation=twinkling&fontAlignY=30&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=52&descSize=20&descColor=8b949e" width="100%"/>
 
 <br/>
 <br/>
 
 <!-- Dynamic Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2193b0&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=🔥+Full+Stack+Developer;🤖+AI+%26+ML+Enthusiast;🚀+Building+The+Future+With+Code;🎯+Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=b829ea&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=80&lines=🔥+Full+Stack+Developer;🤖+AI+%26+ML+Enthusiast;🚀+Building+The+Future+With+Code;🎯+Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <br/>
 
@@ -242,6 +242,6 @@ fun_fact: "I built a voice assistant tool like Siri!"
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2193b0&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:b829ea&height=120&section=footer" width="100%"/>
 
 </div>
