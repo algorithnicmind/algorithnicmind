@@ -204,7 +204,7 @@ fun_fact: "I built a voice assistant tool like Siri!"
 
 ### 📅 My Contribution History
 
-<img src="https://ghchart.rshah.org/2193b0/algorithnicmind" alt="Ankit's GitHub Contribution Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/40c463/algorithnicmind" alt="Ankit's GitHub Contribution Graph" width="100%"/>
 
 </div>
 
