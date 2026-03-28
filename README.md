@@ -202,9 +202,9 @@ fun_fact: "I built a voice assistant tool like Siri!"
 
 <div align="center">
 
-### 🐍 Watch My Contributions Get Eaten
+### 📅 My Contribution History
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+<img src="https://ghchart.rshah.org/2193b0/algorithnicmind" alt="Ankit's GitHub Contribution Graph" width="100%"/>
 
 </div>
 
