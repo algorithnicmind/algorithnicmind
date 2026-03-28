@@ -193,12 +193,12 @@ Sunday     44 commits      ██░░░░░░░░░░░░░░░�
 <div align="center">
 
 **Activity Graph**<br/>
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=algorithnicmind&theme=tokyo-night&hide_border=true&area=true)](https://github.com/algorithnicmind)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=algorithnicmind&theme=radical&hide_border=true&area=true)](https://github.com/algorithnicmind)
 
 <br/>
 
 **Yearly Contributions**<br/>
-<img src="https://ghchart.rshah.org/40c463/algorithnicmind" alt="Ankit's GitHub Contribution Graph" width="80%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=algorithnicmind&theme=radical" alt="GitHub Contributions" width="100%"/>
 
 <br/><br/>
 
