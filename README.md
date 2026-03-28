@@ -208,6 +208,28 @@ fun_fact: "I built a voice assistant tool like Siri!"
 
 </div>
 
+<br/>
+
+<div align="center">
+
+### 📐 3D Perspective History
+
+<img src="https://github.com/algorithnicmind/algorithnicmind/blob/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D View" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📊 Professional Metrics Dashboard
+
+<img src="https://metrics.lecoq.io/algorithnicmind?template=classic&config.timezone=Asia%2FCalcutta" alt="Metrics" width="100%"/>
+
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
