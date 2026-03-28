@@ -166,12 +166,12 @@ Sunday     44 commits      ██░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=algorithnicmind&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=algorithnicmind&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=algorithnicmind&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=algorithnicmind&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithnicmind&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=algorithnicmind&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=algorithnicmind&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 
 </div>
