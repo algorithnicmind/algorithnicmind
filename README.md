@@ -3,8 +3,6 @@
 <!-- Dynamic Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Ankit+Sahoo;%F0%9F%9A%80+Developer+%7C+AI+Enthusiast+%7C+Builder)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
-
 </div>
 
 ---
