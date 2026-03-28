@@ -62,6 +62,17 @@ fun_fact: "I built a voice assistant tool like Siri!"
 
 ---
 
+## 🎯 Currently Working On
+
+```text
+🎭 FaceSentrix      ████████████████████░░░░░  80% — Emotion detection via CNN
+💻 CodeStudio        ██████████████░░░░░░░░░░░  55% — Web-based IDE
+📝 AI Notepad        ████████░░░░░░░░░░░░░░░░░  30% — Smart notes with AI
+🌐 Portfolio Site    ██████░░░░░░░░░░░░░░░░░░░  25% — Personal portfolio
+```
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -137,30 +148,23 @@ fun_fact: "I built a voice assistant tool like Siri!"
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=algorithnicmind&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=algorithnicmind&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithnicmind&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algorithnicmind&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<img width="45%" src="https://github-contributor-stats.vercel.app/api?username=algorithnicmind&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=algorithnicmind&theme=tokyo-night&hide_border=true&area=true)](https://github.com/algorithnicmind)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -168,16 +172,26 @@ fun_fact: "I built a voice assistant tool like Siri!"
 
 </div>
 
----
+<br/>
 
-## 🎯 Currently Working On
+### 📈 Contribution Highlights
 
-```text
-🎭 FaceSentrix      ████████████████████░░░░░  80% — Emotion detection via CNN
-💻 CodeStudio        ██████████████░░░░░░░░░░░  55% — Web-based IDE
-📝 AI Notepad        ████████░░░░░░░░░░░░░░░░░  30% — Smart notes with AI
-🌐 Portfolio Site    ██████░░░░░░░░░░░░░░░░░░░  25% — Personal portfolio
-```
+<div align="center">
+
+**Activity Graph**<br/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=algorithnicmind&theme=tokyo-night&hide_border=true&area=true)](https://github.com/algorithnicmind)
+
+<br/>
+
+**Yearly Contributions**<br/>
+<img src="https://ghchart.rshah.org/40c463/algorithnicmind" alt="Ankit's GitHub Contribution Graph" width="80%"/>
+
+<br/><br/>
+
+**📐 3D Perspective History**<br/>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D View" width="80%"/>
+
+</div>
 
 ---
 
@@ -190,47 +204,17 @@ fun_fact: "I built a voice assistant tool like Siri!"
 
 ---
 
-### 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=algorithnicmind&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 📅 My Contribution History
-
-<img src="https://ghchart.rshah.org/40c463/algorithnicmind" alt="Ankit's GitHub Contribution Graph" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📐 3D Perspective History
-
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D View" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=algorithnicmind&icon=6&color=1)](https://visitcount.itsvg.in)
+
+<br/>
 
 ### 💰 Support My Work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ankitsahoo3)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/algorithnicmind)
 
----
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:b829ea&height=120&section=footer" width="100%"/>
 
