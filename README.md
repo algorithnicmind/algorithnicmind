@@ -182,7 +182,7 @@ Sunday     44 commits      ██░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=algorithnicmind&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7)
+![](https://github-trophies.vercel.app/?username=algorithnicmind&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7)
 
 </div>
 
