@@ -214,7 +214,7 @@ Sunday     48 commits      ██░░░░░░░░░░░░░░░�
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake.svg" width="100%">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake.svg">
 </picture>
 
 </div>
