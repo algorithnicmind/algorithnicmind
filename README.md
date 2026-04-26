@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD022 MD033 MD034 MD041 MD045 MD060 -->
 <div align="center">
 
 <!-- Animated Header Banner -->
