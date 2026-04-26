@@ -208,6 +208,15 @@ Sunday     48 commits      ██░░░░░░░░░░░░░░░�
 **📐 3D Perspective History**<br/>
 <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D View" width="80%"/>
 
+<br/><br/>
+
+**🐍 Contribution Snake Game**<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake.svg" width="100%">
+</picture>
+
 </div>
 
 ---
