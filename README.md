@@ -171,6 +171,11 @@ Sunday     48 commits      ██░░░░░░░░░░░░░░░�
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=algorithnicmind&label=Profile%20Views&color=b829ea&style=for-the-badge" alt="Profile Views" />
+
+<br/>
+<br/>
+
 <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=algorithnicmind&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=algorithnicmind&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 
@@ -219,10 +224,6 @@ Sunday     48 commits      ██░░░░░░░░░░░░░░░�
 ---
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=algorithnicmind&icon=6&color=1)](https://visitcount.itsvg.in)
-
-<br/>
 
 ### 💰 Support My Work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ankitsahoo3)
