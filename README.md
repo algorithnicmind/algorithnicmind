@@ -171,7 +171,7 @@ Sunday     48 commits      ██░░░░░░░░░░░░░░░�
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=algorithnicmind&label=Profile%20Views&color=b829ea&style=for-the-badge" alt="Profile Views" />
+[![](https://visitcount.itsvg.in/api?id=algorithnicmind&icon=6&color=1)](https://visitcount.itsvg.in)
 
 <br/>
 <br/>
