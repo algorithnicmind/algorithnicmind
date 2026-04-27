@@ -212,9 +212,9 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
 
 **🐍 Contribution Snake Game**<br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake.gif">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake.gif" width="100%">
 </picture>
 
 </div>
