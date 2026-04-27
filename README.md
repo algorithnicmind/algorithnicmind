@@ -105,60 +105,181 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
 
 ## 🛠️ Tech Stack
 
+<br/>
+
 <div align="center">
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-### 🧠 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### 🌐 Web Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+            <br>Python
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>JavaScript
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+            <br>Java
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+            <br>C
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+            <br>HTML5
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
+            <br>PowerShell
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+            <br>TensorFlow
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
+            <br>Keras
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+            <br>PyTorch
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" />
+            <br>Scikit-Learn
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+            <br>OpenCV
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+            <br>NumPy
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+            <br>Pandas
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+            <br>Matplotlib
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+            <br>React
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+            <br>Next JS
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+            <br>NodeJS
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+            <br>Express.js
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+            <br>Vite
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+            <br>jQuery
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+            <br>FastAPI
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+            <br>Flask
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" />
+            <br>Streamlit
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+            <br>WordPress
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
+            <br>Bun
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+            <br>MySQL
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+            <br>MongoDB
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+            <br>SQLite
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
+            <br>Postgres
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+            <br>AWS
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+            <br>Vercel
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+            <br>Netlify
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://cdn.worldvectorlogo.com/logos/render.svg" width="48" height="48" alt="Render" />
+            <br>Render
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+            <br>Cloudflare
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+            <br>Docker
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+            <br>Git
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+            <br>GitHub
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+            <br>Postman
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+            <br>Figma
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
+            <br>Canva
+        </td>
+    </tr>
+</table>
 </div>
 
 ---
