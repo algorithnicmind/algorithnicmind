@@ -108,6 +108,9 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
 <br/>
 
 <div align="center">
+
+### 👨‍💻 Languages
+<br/>
 <table align="center">
     <tr>
         <td align="center" width="90">
@@ -134,6 +137,13 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
             <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
             <br>PowerShell
         </td>
+    </tr>
+</table>
+
+### 🧠 AI / ML
+<br/>
+<table align="center">
+    <tr>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
             <br>TensorFlow
@@ -142,8 +152,6 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
             <br>Keras
         </td>
-    </tr>
-    <tr>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
             <br>PyTorch
@@ -168,6 +176,13 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
             <br>Matplotlib
         </td>
+    </tr>
+</table>
+
+### 🌐 Web Frameworks & Libraries
+<br/>
+<table align="center">
+    <tr>
         <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
             <br>React
@@ -176,8 +191,6 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
             <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
             <br>Next JS
         </td>
-    </tr>
-    <tr>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
             <br>NodeJS
@@ -194,6 +207,8 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
             <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
             <br>jQuery
         </td>
+    </tr>
+    <tr>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
             <br>FastAPI
@@ -210,12 +225,17 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
             <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
             <br>WordPress
         </td>
-    </tr>
-    <tr>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
             <br>Bun
         </td>
+    </tr>
+</table>
+
+### 🗄️ Databases
+<br/>
+<table align="center">
+    <tr>
         <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
             <br>MySQL
@@ -232,6 +252,13 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
             <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
             <br>Postgres
         </td>
+    </tr>
+</table>
+
+### ☁️ Cloud & DevOps
+<br/>
+<table align="center">
+    <tr>
         <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
             <br>AWS
@@ -244,8 +271,6 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
             <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
             <br>Netlify
         </td>
-    </tr>
-    <tr>
         <td align="center" width="90">
             <img src="https://cdn.worldvectorlogo.com/logos/render.svg" width="48" height="48" alt="Render" />
             <br>Render
@@ -258,6 +283,13 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
             <br>Docker
         </td>
+    </tr>
+</table>
+
+### 🧰 Tools
+<br/>
+<table align="center">
+    <tr>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
             <br>Git
