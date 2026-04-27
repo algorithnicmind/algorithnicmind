@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Pac-Man Animation
 
 on:
   schedule: # execute every 12 hours
@@ -17,12 +17,9 @@ jobs:
       - uses: actions/checkout@v3
 
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - uses: Platane/snk@v3
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.gif?color_snake=#00ff00&color_dots=#000000,#004400,#008800,#00cc00,#00ff00
-            dist/github-snake-dark.gif?color_snake=#00ff00&color_dots=#000000,#004400,#008800,#00cc00,#00ff00&color_bg=#000000
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page

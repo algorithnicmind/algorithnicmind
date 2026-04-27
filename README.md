@@ -210,11 +210,11 @@ Sunday     50 commits      ██░░░░░░░░░░░░░░░�
 
 <br/><br/>
 
-**🐍 Contribution Snake Game**<br/>
+**🎮 Contribution Pac-Man Game**<br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake.gif">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/github-snake.gif" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/algorithnicmind/algorithnicmind/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
 </div>
